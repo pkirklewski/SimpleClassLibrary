@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClassLibrary", "SimpleClassLibrary\SimpleClassLibrary.csproj", "{12CC5857-DFC9-4874-8477-20012B646CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingClassLibrary", "UsingClassLibrary\UsingClassLibrary.csproj", "{040D9F96-E549-48B6-A0C4-EA58C13E10E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CC5857-DFC9-4874-8477-20012B646CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CC5857-DFC9-4874-8477-20012B646CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CC5857-DFC9-4874-8477-20012B646CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CC5857-DFC9-4874-8477-20012B646CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040D9F96-E549-48B6-A0C4-EA58C13E10E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040D9F96-E549-48B6-A0C4-EA58C13E10E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040D9F96-E549-48B6-A0C4-EA58C13E10E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040D9F96-E549-48B6-A0C4-EA58C13E10E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+c:\Tutorials\Lessons\SimpleClassLibrarySolution\UsingClassLibrary\bin\Debug\UsingClassLibrary.exe.config
+c:\Tutorials\Lessons\SimpleClassLibrarySolution\UsingClassLibrary\bin\Debug\UsingClassLibrary.exe
+c:\Tutorials\Lessons\SimpleClassLibrarySolution\UsingClassLibrary\bin\Debug\UsingClassLibrary.pdb
+c:\Tutorials\Lessons\SimpleClassLibrarySolution\UsingClassLibrary\obj\Debug\UsingClassLibrary.csprojResolveAssemblyReference.cache
+c:\Tutorials\Lessons\SimpleClassLibrarySolution\UsingClassLibrary\obj\Debug\UsingClassLibrary.exe
+c:\Tutorials\Lessons\SimpleClassLibrarySolution\UsingClassLibrary\obj\Debug\UsingClassLibrary.pdb
+c:\Tutorials\Lessons\SimpleClassLibrarySolution\UsingClassLibrary\bin\Debug\SimpleClassLibrary.dll
+c:\Tutorials\Lessons\SimpleClassLibrarySolution\UsingClassLibrary\bin\Debug\SimpleClassLibrary.pdb
